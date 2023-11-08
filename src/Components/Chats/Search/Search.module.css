@@ -1,0 +1,15 @@
+input {
+    width: 540px;
+    height: 50px;
+    /* background: url(img/Chats/search); */
+    box-shadow: 0 0 10px 5px rgba(218, 218, 218, 1);
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+::placeholder {
+    color: rgba(112, 124, 151, 1);
+    font-size: 18px;
+    font-family: 'Roboto Mono', monospace;
+}

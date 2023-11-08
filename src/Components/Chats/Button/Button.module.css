@@ -1,0 +1,12 @@
+.btn {
+    width: 240px;
+    height: 60px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background: linear-gradient(rgba(124, 184, 247, 1), rgba(42, 139, 242, 1));
+    box-shadow: 0 0 10px 5px rgba(42, 139, 242, 0.15);
+    margin-right: 20px;
+}

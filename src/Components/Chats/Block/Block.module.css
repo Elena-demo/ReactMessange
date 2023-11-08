@@ -1,0 +1,50 @@
+.container {
+    box-sizing: border-box;
+    width: 580px;
+    height: 220px;
+    border-radius: 6px;
+    /* border: 1px solid black; */
+    border: 1.5px solid rgba(255, 255, 255, 1);
+    box-shadow: 0 0 10px 5px rgba(218, 218, 218, 1);
+    background: #FFFFFF;
+    margin-top: 20px;
+    padding: 20px;
+    list-style-type: none;
+}
+
+.user {
+    display: flex;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name {
+    color: rgba(13, 28, 46, 1);
+    font-size: 18px;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0px;
+}
+
+.img {
+    width: 54px;
+    height: 54px;
+    margin-right: 20px;
+}
+
+.time {
+    color: rgba(112, 124, 151, 1);
+    font-size: 16px;
+}
+
+.text {
+    color: rgba(112, 124, 151, 1);
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.activelink {
+    background-color: blue;
+}

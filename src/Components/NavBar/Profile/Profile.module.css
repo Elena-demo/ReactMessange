@@ -1,0 +1,10 @@
+.container {
+    width: 96px;
+    /* height: 96px; */
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* display: flex;
+    justify-content: center; */
+}

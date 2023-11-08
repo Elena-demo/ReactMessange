@@ -1,0 +1,23 @@
+.App {
+    /* display: flex;
+  justify-content: center; */
+}
+
+.app-wrapper {
+    /* width: 1220px; */
+    width: 1920px;
+    height: 1080px;
+    /* border: 2px blue solid; */
+    margin: 0 auto;
+    display: flex;
+    /* justify-content: space-between; */
+    background: #F3F3FB;
+}
+
+.content {
+    width: 1630px;
+    height: 1080px;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 60px 0px 60px;
+}
